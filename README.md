@@ -7,7 +7,7 @@ Install packages using npm
 npm install
 ```
 
-Run Dev Env
+Run dev environment
 ```
 npm start
 ```
